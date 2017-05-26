@@ -5,6 +5,10 @@ You can load it on [Snap!](https://snap.berkeley.edu/): see how [here](https://g
 
 If you have any problem, create an issue.
 
+There are two version of the game:
+- only sprites, without scripts ([emptyWithOnlySprites.xml](emptyWithOnlySprites.xml))
+- with sprites and scripts ([complete.xml](complete.xml))
+
 ## License
 
 This package is released under the MIT license.  See [LICENSE](LICENSE) for details.
